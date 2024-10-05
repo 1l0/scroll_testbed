@@ -1,3 +1,3 @@
 # scroll_testbed
 
-A new Flutter project.
+A test for https://github.com/flutter/flutter/issues/69529#issuecomment-2392362522
